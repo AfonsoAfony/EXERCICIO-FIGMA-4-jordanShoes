@@ -119,12 +119,15 @@ p.paragrafo{
     #cabecalho{
     
     background-image: url('../img/hero.png');
-    background-size:cover;
+    background-size:230%;
+    height: 200px;
     background-repeat:no-repeat;
     background-position-x:24.9%;
    
     }
-    
+    #container #texto h1{
+   font-size: 1.6rem;
+    }
     section#texto p{
         font-size: 1rem;
         padding: 0 100px 0 100px;
@@ -136,7 +139,6 @@ p.paragrafo{
  }
  .card img{
     width:250px;
-
     }
 
 .card .info-produtos a{ 
@@ -164,9 +166,7 @@ p.paragrafo{
     background-repeat:no-repeat;
     background-position-x:20%;
    
-    }
-    section#texto h1{
-        
+   
     }
     section#texto p{
         font-size: 1rem;
